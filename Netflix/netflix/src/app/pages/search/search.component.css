@@ -1,0 +1,18 @@
+button{
+    background-color: red;
+    color: white;
+}
+
+img {
+    width: 100%;
+}
+
+h5 {
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    color: white;
+    font-weight: lighter;
+}
